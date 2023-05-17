@@ -1,0 +1,87 @@
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\appsettings.Development.json
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\appsettings.json
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\ERMS.exe
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\ERMS.deps.json
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\ERMS.runtimeconfig.json
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\ERMS.runtimeconfig.dev.json
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\ERMS.dll
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\ref\ERMS.dll
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\ERMS.pdb
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test1\ERMS\ERMS\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.csproj.AssemblyReference.cache
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.AssemblyInfoInputs.cache
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.AssemblyInfo.cs
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.csproj.CoreCompileInputs.cache
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.MvcApplicationPartsAssemblyInfo.cs
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.MvcApplicationPartsAssemblyInfo.cache
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\staticwebassets\ERMS.StaticWebAssets.Manifest.cache
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\staticwebassets\ERMS.StaticWebAssets.xml
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\scopedcss\bundle\ERMS.styles.css
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.RazorTargetAssemblyInfo.cache
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.csproj.CopyComplete
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.dll
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ref\ERMS.dll
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.pdb
+D:\Test1\ERMS\ERMS\ERMS\obj\Debug\net5.0\ERMS.genruntimeconfig.cache
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\appsettings.Development.json
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\appsettings.json
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\ERMS.exe
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\ERMS.deps.json
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\ERMS.runtimeconfig.json
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\ERMS.runtimeconfig.dev.json
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\ERMS.dll
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\ref\ERMS.dll
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\ERMS.pdb
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test\ERMS\Back End\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.csproj.AssemblyReference.cache
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.AssemblyInfoInputs.cache
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.AssemblyInfo.cs
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.csproj.CoreCompileInputs.cache
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.MvcApplicationPartsAssemblyInfo.cs
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.MvcApplicationPartsAssemblyInfo.cache
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\staticwebassets\ERMS.StaticWebAssets.Manifest.cache
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\staticwebassets\ERMS.StaticWebAssets.xml
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\scopedcss\bundle\ERMS.styles.css
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.RazorTargetAssemblyInfo.cache
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.csproj.CopyComplete
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.dll
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ref\ERMS.dll
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.pdb
+D:\Test\ERMS\Back End\ERMS\obj\Debug\net5.0\ERMS.genruntimeconfig.cache
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\appsettings.Development.json
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\appsettings.json
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\ERMS.exe
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\ERMS.deps.json
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\ERMS.runtimeconfig.json
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\ERMS.runtimeconfig.dev.json
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\ERMS.dll
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\ref\ERMS.dll
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\ERMS.pdb
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestD\Back End\ERMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.csproj.AssemblyReference.cache
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.AssemblyInfoInputs.cache
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.AssemblyInfo.cs
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.csproj.CoreCompileInputs.cache
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.MvcApplicationPartsAssemblyInfo.cs
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.MvcApplicationPartsAssemblyInfo.cache
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\staticwebassets\ERMS.StaticWebAssets.Manifest.cache
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\staticwebassets\ERMS.StaticWebAssets.xml
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\scopedcss\bundle\ERMS.styles.css
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.RazorTargetAssemblyInfo.cache
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.csproj.CopyComplete
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.dll
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ref\ERMS.dll
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.pdb
+D:\TestD\Back End\ERMS\obj\Debug\net5.0\ERMS.genruntimeconfig.cache
