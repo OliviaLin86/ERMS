@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="row">
+    <dx-select-box displayExpr="userName" [items]="users" (onSelectionChanged)="onSelectionChanged($event)"
+      placeholder="Choose User" valueExpr="userId"></dx-select-box>
+  </div>
+
+  <dx-data-grid class="row" [dataSource]="dataSource" [showBorders]="false" [errorRowEnabled]="false"
+    [focusedRowEnabled]="true" [focusedRowIndex]="0" [columnAutoWidth]="true" [columnHidingEnabled]="true"
+    (onSaving)="onSaving($event)" [visible]="dataGridVisible">
+
+    <dxo-paging [pageSize]="10"></dxo-paging>
+    <dxo-pager [showPageSizeSelector]="true" [showInfo]="true"></dxo-pager>
+    <dxo-filter-row [visible]="true"></dxo-filter-row>
+
+    <dxo-editing [allowUpdating]="true" [allowAdding]="isUserClient()" mode="batch">
+    </dxo-editing>
+
+    <dxi-column dataField="requestId" [allowEditing]="false">
+    </dxi-column>
+    <dxi-column dataField="clientUserId" caption="Client" [visible]="!isUserClient()">
+      <dxo-lookup [dataSource]="clients" valueExpr="userId" displayExpr="userName">
+      </dxo-lookup>
+    </dxi-column>
+    <dxi-column dataField="vendorUserId" caption="Vendor">
+      <dxo-lookup [dataSource]="vendors" valueExpr="userId" displayExpr="userName">
+      </dxo-lookup>
+    </dxi-column>
+    <dxi-column dataField="supplyId" caption="Supply">
+      <dxo-lookup [dataSource]="supplies" valueExpr="supplyId" displayExpr="supplyName">
+      </dxo-lookup>
+    </dxi-column>
+    <dxi-column dataField="isReceived" caption="Received" [allowEditing]="!isUserClient()">
+    </dxi-column>
+  </dx-data-grid>
+</div>
