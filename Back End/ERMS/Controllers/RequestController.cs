@@ -99,5 +99,26 @@ namespace ERMS.Controllers
             }
             return Ok();
         }
+        
+        [HttpDelete("/Request/Delete")]
+        public ActionResult Delete([FromBody] RequestUI[] requests)
+        {
+            foreach (RequestUI request in requests)
+            {
+                RequestVendor requestVendor = Data.RequestVendors.FirstOrDefault(rv => rv.RequestId == request.RequestId && rv.VendorUserId == request.VendorUserId);
+                RequestDB matchedRequest = Data.Requests.FirstOrDefault(rv => rv.RequestId == request.RequestId);
+
+                if (requestVendor != null && request != null)
+                {
+                    Data.RequestVendors.Remove(requestVendor);
+                    Data.Requests.Remove(matchedRequest);
+                }
+                else
+                {
+                    return NotFound();
+                }
+            }
+            return NoContent();
+        }
     }
 }
