@@ -81,6 +81,8 @@ export class RequestsComponent {
     if (this.isUserClient()) {
       let newRequests: RequestUI[] = [];
       let updatedRequests: RequestUI[] = [];
+      let requestsToBeDeleted: RequestUI[] = [];
+
       e.changes.forEach((change: any) => {
         if (this.currentUser?.userId !== undefined) {
           if (change.type === "insert") {
@@ -103,6 +105,11 @@ export class RequestsComponent {
               updatedRequest[field] = change.data[field];
             });
             updatedRequests.push(updatedRequest);
+          } else if (change.type === "remove") {
+            requestsToBeDeleted.push({requestId: change.key.requestId,
+                                      vendorUserId: change.key.vendorUserId,
+                                      clientUserId: change.key.clientUserId,
+                                      supplyId: change.key.supplyId});
           }
         }
       });
@@ -123,6 +130,14 @@ export class RequestsComponent {
         },
           (err: any) => this.toastr.error(err.message, err.name));
         this.subscriptions$.push(updatedSubscription$);
+      }
+
+      if (requestsToBeDeleted.length > 0){
+        const removeSubscription$: any = this.requestService.delete(requestsToBeDeleted).subscribe(() => {
+          this.toastr.success("The requests have been deleted.");
+        },
+        (err: any) => this.toastr.error(err.message, err.name));
+        this.subscriptions$.push(removeSubscription$);
       }
     } else {
       this.acknowledge(e.changes[0].key);
