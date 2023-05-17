@@ -20,6 +20,12 @@ export class RequestService {
         return this.http.post<RequestUI[]>(`${this.REQUEST_URL}add`, requests);
     }
 
+    delete(requests: RequestUI[]){
+        return this.http.delete<RequestUI[]>(`${this.REQUEST_URL}delete`, {
+            body: requests
+         });
+    }
+        
     getRequestsByUserId(userId: number): Observable<Response[]>{
         return this.http.get<Response[]>(`${this.REQUEST_URL}getByUserId/${userId}`);
     }
